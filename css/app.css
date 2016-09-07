@@ -1,6 +1,8 @@
 .top-bar{
 	background-color: #ffa64d;
 }
-.panel{
-	
+.web{
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
 }
